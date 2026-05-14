@@ -1,0 +1,1 @@
+Implemented semantic search using Sentence Transformers and ChromaDB with reranking logic.
